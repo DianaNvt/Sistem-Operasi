@@ -11,7 +11,9 @@ Yang ingin dipelajari
 - topologi jaringan
 - data mining
 
-Software code editor 
+software code editor
+- pycharm
+- android studio
 - vscode
 - netbeans
 - sublime
